@@ -1,5 +1,7 @@
 ### Hi, I'm Dhruv
 
+[![An image of @drvcodenta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/drvcodenta)](https://holopin.io/@drvcodenta)
+
 <!--
 **drvcodenta/drvcodenta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
