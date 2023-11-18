@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m currently working on some secret Ideas, that I will make public in the future
-- 🌱 I’m currently learning Next.js, tailwindcss ,Typescript and SQL 
+- 🌱 I’m currently learning SQL 
 
 - Linkedin: https://www.linkedin.com/in/dhruv-trivedi-06a767228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
