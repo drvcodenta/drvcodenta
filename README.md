@@ -12,7 +12,6 @@ I love to join different Communities that involve creating something for society
 
 **You can see my blogs here:-**
 - [<img src='https://cdn6.aptoide.com/imgs/c/c/4/cc4728ef462176c828948f9ce056fa5f_icon.png' alt='Dev' height='60'>](https://dev.to/drvcodenta)
-- If you like them, you can consider to liking them 
 
 **Skills:**
 Web Development | Project Management
