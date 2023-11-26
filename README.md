@@ -20,7 +20,7 @@ Web Development | Project Management
 [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/640px-Visual_Studio_Code_1.18_icon.svg.png' alt='vscode' height='40'>] [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Github_logo_svg.svg/640px-Github_logo_svg.svg.png' alt='Github' height='40'>] [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/640px-Tailwind_CSS_Logo.svg.png' alt='tailwindcss' height='40'>] [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png' alt='react' height='40'>] [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/640px-Gnu-bash-logo.svg.png' alt='bash' height='40'>] [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TuxFlat.svg/640px-TuxFlat.svg.png' alt='linux' height='40'>] [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/640px-Git-logo.svg.png' alt='git' height='40'>]
 
 
-- 🔭 I’m currently working on some secret Ideas, that I will make public in the future
+- 🔭 I’m currently working on some secret Ideas, which I will make public in the future
 - 🌱 I’m currently learning SQL 
 
 **You can connect with me on:**
