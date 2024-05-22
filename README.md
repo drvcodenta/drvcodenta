@@ -26,3 +26,4 @@ Full Stack Development | Project Management | Technical Writer
 - Linkedin: [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/729101_linkedin_icon.png/640px-729101_linkedin_icon.png' alt='linkedin id' height='40'>](https://www.linkedin.com/in/dhruv-trivedi-06a767228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - X: [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/X_logo_2023_%28white%29.png/640px-X_logo_2023_%28white%29.png' alt='X' height='40'>](https://twitter.com/DhruvTr89566170)
 
+[![An image of @drvcodenta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/drvcodenta)](https://holopin.io/@drvcodenta)
