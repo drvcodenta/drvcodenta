@@ -10,6 +10,12 @@ I have a huge interest in creating innovative solutions in Tech 💻 and writing
 
 I am Linux Lover💘⌨️ and I love to join different Communities that involve creating something for society!👐
 
+
+## GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=drvcodenta&show_icons=true&theme=radical)
+
+
 **You can see my blogs here:-**
 - [<img src='https://cdn6.aptoide.com/imgs/c/c/4/cc4728ef462176c828948f9ce056fa5f_icon.png' alt='Dev' height='60'>](https://dev.to/drvcodenta)
 
