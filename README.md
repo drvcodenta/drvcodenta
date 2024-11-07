@@ -12,7 +12,7 @@ I am a Linux Lover 💘⌨️ and I love to join different Communities that invo
   <tr>
     <!-- GitHub Stats -->
     <td align="center" style="padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=drvcodenta&show_icons=true&theme=radical" alt="Your GitHub Stats" width="500" />
+      <img src="https://github-readme-stats.vercel.app/api?username=drvcodenta&show_icons=true&theme=radical" alt="Your GitHub Stats" width="600" />
     </td>
     <!-- Holopin Badges -->
     <td align="center" style="padding: 10px;">
