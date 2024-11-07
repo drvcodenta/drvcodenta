@@ -17,7 +17,7 @@ I am a Linux Lover 💘⌨️ and I love to join different Communities that invo
     <!-- Holopin Badges -->
     <td align="center" style="padding: 10px;">
       <a href="https://holopin.io/@drvcodenta">
-        <img src="https://holopin.me/drvcodenta" alt="An image of @drvcodenta's Holopin badges" width="900" />
+        <img src="https://holopin.me/drvcodenta" alt="An image of @drvcodenta's Holopin badges" width="700" />
       </a>
     </td>
   </tr>
