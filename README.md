@@ -42,7 +42,9 @@ Full Stack Development | Project Management | Technical Writing
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/640px-Gnu-bash-logo.svg.png" alt="bash" height="40"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TuxFlat.svg/640px-TuxFlat.svg.png" alt="linux" height="40"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/640px-Git-logo.svg.png" alt="git" height="40"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="nextjs" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Tabler-icons_brand-nextjs.svg/480px-Tabler-icons_brand-nextjs.svg.png" alt="nextjs" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Python-logo.png/701px-Python-logo.png" alt="python" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/640px-Django_logo.svg.png" alt="django" height="40">
 
 - 🌱 I’m currently learning vim, data structures, and algorithms
 
