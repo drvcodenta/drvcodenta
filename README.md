@@ -45,7 +45,7 @@ Full Stack Development | Project Management | Technical Writing
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Tabler-icons_brand-nextjs.svg/480px-Tabler-icons_brand-nextjs.svg.png" alt="nextjs" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Python-logo.png/701px-Python-logo.png" alt="python" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/640px-Django_logo.svg.png" alt="django" height="40">
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Docker-svgrepo-com.svg" alt="docker" height="50">
 - 🌱 I’m currently learning vim, data structures, and algorithms
 
 **You can connect with me on:**
