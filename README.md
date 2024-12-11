@@ -1,10 +1,6 @@
-### Hi 👋, Welcome
+### Hi 👋,
 
 My name is Dhruv Trivedi. I am an IT undergrad 👨‍🎓
-
-I have a huge interest in creating innovative solutions in Tech 💻 and writing blogs ... 
-
-I am a Linux Lover 💘⌨️ and I love to join different Communities that involve creating something for society! 👐
 
 ## GitHub Stats & Badges
 
@@ -31,8 +27,6 @@ I am a Linux Lover 💘⌨️ and I love to join different Communities that invo
 **You can see my blogs here:**
 - [<img src='https://cdn6.aptoide.com/imgs/c/c/4/cc4728ef462176c828948f9ce056fa5f_icon.png' alt='Dev' height='60'>](https://dev.to/drvcodenta)
 
-**Skills:**
-Full Stack Development | Project Management | Technical Writing
 
 **Tools:**
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/640px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" height="40"> 
@@ -46,7 +40,6 @@ Full Stack Development | Project Management | Technical Writing
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Python-logo.png/701px-Python-logo.png" alt="python" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/640px-Django_logo.svg.png" alt="django" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Docker-svgrepo-com.svg" alt="docker" height="50">
-- 🌱 I’m currently learning vim, data structures, and algorithms
 
 **You can connect with me on:**
 - Linkedin: [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/729101_linkedin_icon.png/640px-729101_linkedin_icon.png' alt='linkedin id' height='40'>](https://www.linkedin.com/in/dhruv-trivedi-06a767228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
