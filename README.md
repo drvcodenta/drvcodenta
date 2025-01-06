@@ -1,6 +1,34 @@
-### Hi 👋,
+My name is Dhruv Trivedi, and I am an Information Technology undergrad with a passion for cybersecurity and open-source. I have six years of Linux experience and a growing interest in reverse engineering, ARM programming, Rust. I am very curious about mastering Rust programming and low-level languages like ARM assembly to enhance my reverse-engineering capabilities for ARM-based devices.
 
-My name is Dhruv Trivedi. I am an IT undergrad 👨‍🎓
+## Previous Projects, Open-Source Contributions and Achievements
+
+- ### ISKCON Noida Official Website(https://iskconnoida.org/)
+
+This project serves thousands of users monthly
+
+- ### OWASP BLT(Active Open source contributor)
+
+Containerized the project using Docker, reducing image size by 60-70% and minimizing vulnerabilities by 72%.
+
+Developed Django management commands for automating trademark search alerts.
+
+Enhanced responsive UX across components for seamless multi-device support.
+
+- ### OpenVino Toolkit
+
+Worked on automating GitHub projects for OpenVINO™, collaborating with maintainers to resolve issues in custom
+GitHub Actions.
+
+- ### Sktime Library
+Collaborated with project maintainers to draft improved documentation methodologies for the sktime library, focusing
+on user journey and task-based taxonomies.
+
+- #### Amazon ML Summer School(3.52% acceptance rate).
+
+- Volunteered Contributions to open-source initiatives under **Hacktoberfest** and **MLH Global Hack Weeks**.
+
+- Volunteer at **Comic-Con** Delhi, India.
+
 
 ## GitHub Stats & Badges
 
