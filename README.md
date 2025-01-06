@@ -1,4 +1,6 @@
-My name is Dhruv Trivedi, and I am an Information Technology undergrad with a passion for cybersecurity and open-source. I have six years of Linux experience and a growing interest in reverse engineering, ARM programming, Rust. I am very curious about mastering Rust programming and low-level languages like ARM assembly to enhance my reverse-engineering capabilities for ARM-based devices.
+Hi 👋,
+
+My name is Dhruv Trivedi, and I am an Information Technology undergrad with a strong passion for cybersecurity and open-source contributions. With six years of hands-on Linux experience, I am deeply interested in reverse engineering, ARM programming, Rust, and testing. While I am currently building foundational knowledge in kernel development, I am highly motivated to advance my expertise and contribute to securing systems at a low level.
 
 ## Previous Projects, Open-Source Contributions and Achievements
 
@@ -6,11 +8,11 @@ My name is Dhruv Trivedi, and I am an Information Technology undergrad with a pa
 
 This project serves thousands of users monthly
 
-- ### OWASP BLT(Active Open source contributor)
+- ### OWASP BLT(Active contributor)
 
 Containerized the project using Docker, reducing image size by 60-70% and minimizing vulnerabilities by 72%.
 
-Developed Django management commands for automating trademark search alerts.
+Developed Django management command for automating trademark search alerts.
 
 Enhanced responsive UX across components for seamless multi-device support.
 
@@ -68,6 +70,24 @@ on user journey and task-based taxonomies.
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Python-logo.png/701px-Python-logo.png" alt="python" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/640px-Django_logo.svg.png" alt="django" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Docker-svgrepo-com.svg" alt="docker" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" alt="vmware workstation pro" height="40">
+<img src="https://www.citypng.com/public/uploads/preview/hd-windows-11-logo-icon-transparent-background-701751694967888zqtluh5aaw.png" alt="windows" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="kali" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Yarn-logo-kitten.svg" alt="yarn" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" alt="npm" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JS" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TS" height="40">
+<img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" alt="framer motion" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" alt="CSS" height="40">
+<img src="https://logos-world.net/wp-content/uploads/2020/02/Canva-Logo.png" alt="Canva" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" alt="postman" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/New-azure-logo-square.png" alt="Azure" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Mongodb-svgrepo-com.svg" alt="mongodb" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" alt="MYSQL" height="40" width = "40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="POSTGRESQL" height="40">
+
 
 **You can connect with me on:**
 - Linkedin: [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/729101_linkedin_icon.png/640px-729101_linkedin_icon.png' alt='linkedin id' height='40'>](https://www.linkedin.com/in/dhruv-trivedi-06a767228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
