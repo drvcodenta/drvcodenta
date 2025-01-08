@@ -27,10 +27,6 @@ on user journey and task-based taxonomies.
 
 - #### Amazon ML Summer School(3.52% acceptance rate).
 
-- Volunteered Contributions to open-source initiatives under **Hacktoberfest** and **MLH Global Hack Weeks**.
-
-- Volunteer at **Comic-Con** Delhi, India.
-
 
 ## GitHub Stats & Badges
 
