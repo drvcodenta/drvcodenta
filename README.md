@@ -1,6 +1,6 @@
 Hi 👋,
 
-My name is Dhruv Trivedi, and I am an Information Technology undergrad with a strong passion for cybersecurity and open-source contributions. With six years of hands-on Linux experience, I am deeply interested in reverse engineering, ARM programming, Rust, and testing. While I am currently building foundational knowledge in kernel development, I am highly motivated to advance my expertise and contribute to securing systems at a low level.
+My name is Dhruv Trivedi, and I am an Information Technology undergrad with a strong passion for cybersecurity and open-source contributions. With six years of hands-on Linux experience, I am deeply interested in reverse engineering, ARM programming, Rust, and testing. While I am currently building foundational knowledge in securing kernel development, I am highly motivated to join communities that create meaningful impact on our homosapien society
 
 ## Previous Projects, Open-Source Contributions and Achievements
 
