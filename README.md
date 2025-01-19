@@ -6,7 +6,7 @@ My name is Dhruv Trivedi, and I am an Information Technology undergrad with a st
 
 - ### ISKCON Noida Official Website(https://iskconnoida.org/)
 
-This project serves thousands of users monthly
+This project serves tens of thousands of users monthly, and I am particularly very proud of volunteering in the successful completion of this project from scratch because it serves as a donation platform for normal people in various campaigns such as Anna-Daan which helps in feeding the unprivileged section of society!
 
 - ### OWASP BLT(Active contributor)
 
