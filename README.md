@@ -10,20 +10,9 @@ This project serves tens of thousands of users monthly, and I am particularly ve
 
 - ### OWASP BLT(Active contributor)
 
-Containerized the project using Docker, reducing image size by 60-70% and minimizing vulnerabilities by 72%.
-
-Developed Django management command for automating trademark search alerts.
-
-Enhanced responsive UX across components for seamless multi-device support.
-
 - ### OpenVino Toolkit
 
-Worked on automating GitHub projects for OpenVINO™, collaborating with maintainers to resolve issues in custom
-GitHub Actions.
-
 - ### Sktime Library
-Collaborated with project maintainers to draft improved documentation methodologies for the sktime library, focusing
-on user journey and task-based taxonomies.
 
 - #### Amazon ML Summer School(3.52% acceptance rate).
 
