@@ -1,21 +1,8 @@
-Hi 👋,
-
-My name is Dhruv Trivedi, and I am an Information Technology undergrad with a strong passion for cybersecurity and open-source contributions. With six years of hands-on Linux experience, I am deeply interested in reverse engineering, ARM programming, Rust, and testing. While I am currently building foundational knowledge in securing kernel development, I am highly motivated to join communities that create meaningful impact on our homosapien society
-
-## Previous Projects, Open-Source Contributions and Achievements
+## my previous project
 
 - ### ISKCON Noida Official Website(https://iskconnoida.org/)
 
-This project serves tens of thousands of users monthly, and I am particularly very proud of volunteering in the successful completion of this project from scratch because it serves as a donation platform for normal people in various campaigns such as Anna-Daan which helps in feeding the unprivileged section of society!
-
-- ### OWASP BLT(Active contributor)
-
-- ### OpenVino Toolkit
-
-- ### Sktime Library
-
-- #### Amazon ML Summer School(3.52% acceptance rate).
-
+This project serves tens of thousands of users monthly, and I am particularly proud of volunteering to successfully complete this project from scratch because it serves as a donation platform for normal people in various campaigns such as Anna-Daan which helps feed the unprivileged section of society!
 
 ## GitHub Stats & Badges
 
