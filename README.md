@@ -30,13 +30,12 @@ This project serves tens of thousands of users monthly, and I am particularly pr
 - [<img src='https://cdn6.aptoide.com/imgs/c/c/4/cc4728ef462176c828948f9ce056fa5f_icon.png' alt='Dev' height='60'>](https://dev.to/drvcodenta)
 
 
-**Tools:**
+**Languages & Frameworks:**
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="go" height="60" width = "60">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png" alt="react" height="40"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/640px-Tailwind_CSS_Logo.svg.png" alt="tailwindcss" height="40"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/640px-Gnu-bash-logo.svg.png" alt="bash" height="40"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TuxFlat.svg/640px-TuxFlat.svg.png" alt="linux" height="40"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/640px-Git-logo.svg.png" alt="git" height="40"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Python-logo.png/701px-Python-logo.png" alt="python" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Docker-svgrepo-com.svg" alt="docker" height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" alt="vmware workstation pro" height="40">
