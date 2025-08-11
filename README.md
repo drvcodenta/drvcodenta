@@ -1,3 +1,5 @@
+My name is pronounced Dhruv — rhymes with “groove,” starts with a soft “dh” sound
+
 ## my previous project
 
 - ### ISKCON Noida Official Website(https://iskconnoida.org/)
