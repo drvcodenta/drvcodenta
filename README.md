@@ -6,26 +6,6 @@ My name is pronounced Dhruv — rhymes with “groove,” starts with a soft “
 
 This project serves tens of thousands of users monthly, and I am particularly proud of volunteering to successfully complete this project from scratch because it serves as a donation platform for normal people in various campaigns such as Anna-Daan which helps feed the unprivileged section of society!
 
-## GitHub Stats & Badges
-
-<table>
-  <tr>
-    <!-- GitHub Stats -->
-    <td align="center" style="padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=drvcodenta&show_icons=true&theme=radical" alt="Your GitHub Stats" width="600" />
-    </td>
-    <!-- Holopin Badges -->
-    <td align="center" style="padding: 10px;">
-      <a href="https://holopin.io/@drvcodenta">
-        <img src="https://holopin.me/drvcodenta" alt="An image of @drvcodenta's Holopin badges" width="700" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-
-
-
 ![Profile Views](https://komarev.com/ghpvc/?username=drvcodenta&color=brightgreen)
 
 **You can see my blogs here:**
