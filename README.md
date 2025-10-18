@@ -1,35 +1,35 @@
-My name is pronounced Dhruv — rhymes with “groove,” starts with a soft “dh” sound
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="width: 70%; vertical-align: middle;">
+      <img src="https://media1.tenor.com/m/_mg4tucvgIwAAAAC/sousou-no-frieren-marumaru-no-mahou.gif" width="100%" alt="Frieren GIF" />
+    </td>
+    <td style="width: 30%; vertical-align: middle;">
+      <h2>Building systems that serve real people</h2>
+      <p>
+        from 50K to 100K+ users' web apps to secure low-level infra
+      </p>
+    </td>
+  </tr>
+</table>
 
-## my previous project
+### About Me
+I’m a systems-aware engineer who builds resilient, human-centered software—whether that’s a 100K-user web platform, a 72-hour kiosk deployed in the field, or contributions to low-level security and ML tooling. I ship with ownership, optimize for real impact, and believe clean code is a form of empathy.
 
-- ### ISKCON Noida Official Website(https://iskconnoida.org/)
+### Featured Project
 
-This project serves tens of thousands of users monthly, and I am particularly proud of volunteering to successfully complete this project from scratch because it serves as a donation platform for normal people in various campaigns such as Anna-Daan which helps feed the unprivileged section of society!
+#### [ISKCON Noida Official Website](https://iskconnoida.org/)  
+Serves **50K–100K+ users monthly**, built from scratch as a donation platform for social campaigns (e.g., *Anna-Daan*).  
 
-![Profile Views](https://komarev.com/ghpvc/?username=drvcodenta&color=brightgreen)
-
-**You can see my blogs here:**
-- [<img src='https://cdn6.aptoide.com/imgs/c/c/4/cc4728ef462176c828948f9ce056fa5f_icon.png' alt='Dev' height='60'>](https://dev.to/drvcodenta)
+#### [Digital Kiosk](https://www.linkedin.com/feed/update/urn:li:activity:7375725559177420800/)
+Built in 3 days under tight constraints; offline-first, QR-based check-in system now reused across live events.
 
 
-**Languages & Frameworks:**
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="go" height="60" width = "60">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png" alt="react" height="40"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/640px-Tailwind_CSS_Logo.svg.png" alt="tailwindcss" height="40"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/640px-Gnu-bash-logo.svg.png" alt="bash" height="40"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TuxFlat.svg/640px-TuxFlat.svg.png" alt="linux" height="40"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Python-logo.png/701px-Python-logo.png" alt="python" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Docker-svgrepo-com.svg" alt="docker" height="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" alt="vmware workstation pro" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Yarn-logo-kitten.svg" alt="yarn" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/en/e/ec/Bun_JS_logo.png" alt="bun" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JS" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TS" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" alt="CSS" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" alt="MYSQL" height="70" width = "70">
+### Tech Stack
 
-**You can connect with me on:**
-- Linkedin: [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/729101_linkedin_icon.png/640px-729101_linkedin_icon.png' alt='linkedin id' height='40'>](https://www.linkedin.com/in/dhruv-trivedi-06a767228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- X: [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/X_logo_2023_%28white%29.png/640px-X_logo_2023_%28white%29.png' alt='X' height='40'>](https://twitter.com/DhruvTr89566170)
-- mail id: [wireddt@gmail.com](mailto:wireddt@gmail.com)
+Frontend: React · TypeScript · Tailwind · HTML5 · CSS3  
+Backend: Python · Go · Node.js · Bun  
+Infra: Docker · Linux · Bash · MySQL  
+
+*(Tools I’ve shipped with — no fluff)*
+
+![Profile Views](https://komarev.com/ghpvc/?username=drvcodenta&color=2ecc71)
