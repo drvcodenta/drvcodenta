@@ -13,7 +13,7 @@
 </table>
 
 ### About Me
-I’m a systems-aware engineer who builds resilient, human-centered software—whether that’s a 100K-user web platform, a 72-hour kiosk deployed in the field, or contributions to low-level security and ML tooling. I ship with ownership, optimize for real impact, and believe clean code is a form of empathy.
+I’m an engineer who builds software—whether that’s a 100K-user web platform, a 72-hour kiosk deployed in the field, or contributions to low-level security and ML tooling. I ship with ownership, optimize for real impact, and believe clean code is a form of empathy.
 
 ### Featured Project
 
