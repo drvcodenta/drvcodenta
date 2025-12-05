@@ -30,6 +30,4 @@ Frontend: React · TypeScript · Tailwind · HTML5 · CSS3
 Backend: Python · Go · Node.js · Bun  
 Infra: Docker · Linux · Bash · MySQL  
 
-*(Tools I’ve shipped with — no fluff)*
-
 ![Profile Views](https://komarev.com/ghpvc/?username=drvcodenta&color=2ecc71)
