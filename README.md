@@ -15,15 +15,6 @@
 ### About Me
 I’m an engineer who builds software—whether that’s a 100K-user web platform, a 72-hour kiosk deployed in the field, or contributions to low-level security and ML tooling. I ship with ownership, optimize for real impact, and believe clean code is a form of empathy.
 
-### Featured Project
-
-#### [ISKCON Noida Official Website](https://iskconnoida.org/)  
-Serves **50K–100K+ users monthly**, built from scratch as a donation platform for social campaigns (e.g., *Anna-Daan*).  
-
-#### [Digital Kiosk](https://www.linkedin.com/feed/update/urn:li:activity:7375725559177420800/)
-Built in 3 days under tight constraints; offline-first, QR-based check-in system now reused across live events.
-
-
 ### Tech Stack
 
 Frontend: React · TypeScript · Tailwind · HTML5 · CSS3  
