@@ -6,7 +6,7 @@
     <td style="width: 30%; vertical-align: middle;">
       <h2>Building systems that serve real people</h2>
       <p>
-        from 50K to 100K+ users' web apps to secure low-level infra
+        from 50K to 300K+ users' web apps to secure low-level infra
       </p>
     </td>
   </tr>
