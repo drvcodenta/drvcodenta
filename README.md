@@ -24,4 +24,4 @@ Infra: Docker · Linux · Bash · MySQL
 ![Profile Views](https://komarev.com/ghpvc/?username=drvcodenta&color=2ecc71)
 
 ### 🗓️ Schedule a meeting
-[Book a time with me on Cal.com](https://cal.com/dhruv-trivedi/15min)
+[Book a time with me](https://cal.com/dhruv-trivedi/15min)
