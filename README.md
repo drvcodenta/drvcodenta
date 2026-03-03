@@ -13,7 +13,7 @@
 </table>
 
 ### About Me
-I’m an engineer who builds software—whether that’s a 100K-user web platform, a 72-hour kiosk deployed in the field, or contributions to low-level security and ML tooling. I ship with ownership, optimize for real impact, and believe clean code is a form of empathy.
+I’m an engineer who builds software—whether that’s a 300K-user web platform, a 72-hour kiosk deployed in the field, or contributions to low-level security and ML tooling. I ship with ownership, optimize for real impact, and believe clean code is a form of empathy.
 
 ### Tech Stack
 
@@ -22,3 +22,6 @@ Backend: Python · Go · Node.js · Bun
 Infra: Docker · Linux · Bash · MySQL  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=drvcodenta&color=2ecc71)
+
+### 🗓️ Schedule a meeting
+[Book a time with me on Cal.com](https://cal.com/dhruv-trivedi/15min)
