@@ -18,7 +18,7 @@ I’m an engineer who builds software—whether that’s a 300K-user web platfor
 ### Tech Stack
 
 Frontend: React · TypeScript · Tailwind · HTML5 · CSS3  
-Backend: Node.js · Bun  
+Backend: Node.js · Bun · Python
 Infra: Docker · Linux · Bash · MySQL  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=drvcodenta&color=2ecc71)
