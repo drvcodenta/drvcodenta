@@ -19,7 +19,7 @@ I’m an engineer who builds software—whether that’s a 300K-user web platfor
 
 Frontend: React · TypeScript · Tailwind · HTML5 · CSS3 
 
-Backend: Node.js · Bun · Python 
+Backend: Bun · Python 
 
 Infra: Docker · Linux · Bash · MySQL  
 
